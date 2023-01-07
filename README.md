@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HellRizeN&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ❤️ Random Scotch Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
